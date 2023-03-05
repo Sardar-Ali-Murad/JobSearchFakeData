@@ -137,9 +137,12 @@ input {
   cursor: pointer;
 }
 
+
+
+
 @media screen and (max-width: 500px) {
-  .tableMain {
-    width: 90%;
+  .gridMain {
+    width: 95%;
   }
   .headersMain a {
     display: none;
@@ -147,8 +150,8 @@ input {
 }
 
 @media screen and (max-width: 400px) {
-  .tableMain {
-    width: 95%;
+  .gridMain{
+    width: 96%;
   }
 }
 
